@@ -11,7 +11,8 @@ Features :
 * Change or reset password option is also present.
 * There's a help page where all the information of developer is present.
 * Also some minor features are there.
-* 
+
+
  Mentioned :
 * All the codes are written separately in MVC to understand easily and properly.  
 * All the classes and methods are tested correctly (Unit tesing passed - no failed method) and passed in all the cases.
